@@ -1,0 +1,96 @@
+*{
+    margin: 0px;
+    font-family: sans-serif;
+}
+h1{
+    font-size: 44px;
+    font-weight: 700;
+    color: #000000;
+}
+h2{
+    font-size: 18px;
+    font-weight: 500;
+    color: #000;
+}
+p{
+    font-size: 18px;
+    font-weight: 500;
+    color: #000000;
+}
+h3{
+    font-size: 18px;
+    font-weight: 500;
+    color: #828282;
+}
+.sel{
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color: transparent;
+    font-size: 18px;
+    font-weight: 500;
+    color: #000000;
+}
+button{
+    border: none;
+}
+.divheader{
+    display: flex;
+    justify-content: center;
+    gap: 45px;
+    align-items: center;
+    margin-top: 20px;
+    padding: 0px 200px;
+    
+}
+.btnlog{
+    width:107px ;
+    height: 40px;
+    background-color: transparent;
+    color: #2642F8;
+    font-size: 16px;
+    font-weight: 500;
+    border: 2px solid; 
+    border-radius: 20px;   
+}
+.divheaderpart2{
+    display: flex;
+    padding: 0px 150px;
+    gap: 180px;
+    margin-top: 100px;
+    align-items: center;
+}
+.h1more{
+    width: 437px;
+    margin-bottom: 20px;
+    
+}
+.plor{
+    line-height: 25px;
+}
+.divdate{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.date{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.AuthorName{
+    display: flex;
+    gap: 20px;
+
+}
+.hr1{
+    margin: auto;
+    margin-top: 70px;
+    background-color: gray;
+    height: 1px;
+    padding: 0px 150px;
+    width: 61%;
+
+}
