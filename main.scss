@@ -9,7 +9,7 @@ h1{
 }
 h2{
     font-size: 18px;
-    font-weight: 500;
+    font-weight: 700;
     color: #000;
 }
 p{
@@ -18,7 +18,7 @@ p{
     color: #000000;
 }
 h3{
-    font-size: 18px;
+    font-size: 17px;
     font-weight: 500;
     color: #828282;
 }
@@ -91,6 +91,64 @@ button{
     background-color: gray;
     height: 1px;
     padding: 0px 150px;
+    width: 60%;
+}
+.sec1{
+     padding: 0px 150px;
+     margin-top: 100px;
+     display: flex;
+     gap: 30px;
+    
+}
+.div1{
+    width: 360px;
+}
+.df{
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.pWhen{
+    width: 360px;
+}
+.btnux{
+    width:120px ;
+    height: 35px;
+    background-color: #F2F2F2;
+    color: #4F4F4F;
+    font-size: 15px;
+    font-weight: 500;
+    border: none;     
+}
+.jan{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 10px;
+}
+.pshort{
+    font-size: 16px;
+    font-weight: 300;
+    color: #333333;
+    margin-top: 10px;
+}
+.el18{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 10px;
+}
+.q1{
     width: 61%;
-
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.q2{
+    width: 34%;
+}
+.divlorem{
+    padding-left: 20px;
+    margin-top: 70px;
 }
