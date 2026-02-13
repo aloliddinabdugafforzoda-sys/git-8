@@ -276,4 +276,44 @@ button {
   flex-wrap: wrap;
   gap: 70px;
   margin-top: 100px;
+}
+
+.sec5 {
+  background-color: #2642F8;
+  padding: 0px 300px;
+  margin-top: 140px;
+}
+
+.pjo {
+  color: white;
+  width: 962px;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.btnnow {
+  width: 150px;
+  height: 35px;
+  background-color: #F2F2F2;
+  color: #2642F8;
+  font-size: 15px;
+  font-weight: 600;
+  border: none;
+  border-radius: 20px;
+  margin-top: 20px;
+  margin-left: 400px;
+}
+
+.no {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.divno {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 40px;
 }/*# sourceMappingURL=main.css.map */
