@@ -173,4 +173,30 @@ button {
 .divlorem {
   padding-left: 20px;
   margin-top: 70px;
+}
+
+.yem {
+  width: 360px;
+  height: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
+.btnsign {
+  width: 120px;
+  height: 35px;
+  background-color: #2642F8;
+  color: #F2F2F2;
+  font-size: 15px;
+  font-weight: 500;
+  border: none;
+  border-radius: 20px;
+}
+
+.sec2 {
+  display: flex;
+  padding: 0px 150px;
+  justify-content: space-between;
+  margin-top: 100px;
 }/*# sourceMappingURL=main.css.map */
