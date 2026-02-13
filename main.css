@@ -27,6 +27,12 @@ h3 {
   color: #828282;
 }
 
+h4 {
+  font-size: 16px;
+  font-weight: 300;
+  color: #000000;
+}
+
 .sel {
   border: none;
   outline: none;
@@ -282,6 +288,7 @@ button {
   background-color: #2642F8;
   padding: 0px 300px;
   margin-top: 140px;
+  padding-bottom: 50px;
 }
 
 .pjo {
@@ -316,4 +323,16 @@ button {
   justify-content: center;
   gap: 30px;
   margin-top: 40px;
+}
+
+.foot {
+  padding: 0px 150px;
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  margin-top: 100px;
+}
+
+.mt {
+  margin-top: 5px;
 }/*# sourceMappingURL=main.css.map */
